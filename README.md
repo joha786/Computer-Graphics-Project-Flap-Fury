@@ -182,7 +182,10 @@ Possible future updates:
 ## 👨‍💻 Author
 
 **Muhammad Joha**
-
+**Shafi Mahmmod**
+**Pallab Aich**
+**Amir Hamza**
+**Mostafizur Rahman**
 ---
 
 ## 📜 License
